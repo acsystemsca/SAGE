@@ -1,0 +1,15 @@
+http://www.mclarenx.com/2015/03/03/raspberry-pi-paso-8-compartir-ficheros-con-samba/
+
+http://www.mclarenx.com/2015/02/10/raspberry-pi-paso-4-montar-disco-duro-usb/
+
+
+
+\\FACTURACION\pi
+
+
+
+
+
+
+
+
